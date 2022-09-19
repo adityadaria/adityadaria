@@ -1,8 +1,5 @@
-- 👋 Hi, I am Aditya Daria
-- 👀 I’m interested in Data Analysis, Data Science and Machine Learning
-- 🌱 I’m currently learning EDA, ML
-- 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me  : https://www.linkedin.com/in/adityadaria/
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Aditya+Daria;Here+to+share+and+learn)](https://git.io/typing-svg)
+
 
 <!---
 adityadaria/adityadaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
